@@ -1,4 +1,4 @@
-# Finacial-budget-Analysis
+# Financial Budget Analysis with Python
 ## What is a Financial Budget?
 >Today, a huge number of data analysts have no coding experience. If you have an expertise in business, you might be familiar with the concept of a financial budget. It is, in essence, a thorough report on the government's revenue and expenditures for a certain fiscal year.
 
